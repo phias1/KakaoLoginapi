@@ -17,6 +17,7 @@ import com.kakao.usermgmt.response.model.UserProfile;
 import com.kakao.util.exception.KakaoException;
 
 import java.security.MessageDigest;
+//안드로이드에서 카카오 로그인을 
 
 public class MainActivity extends AppCompatActivity {
     //안드로이드 키 해시를 로그로 출력하는 메소드
