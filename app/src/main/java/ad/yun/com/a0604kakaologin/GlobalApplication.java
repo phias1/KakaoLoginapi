@@ -6,6 +6,7 @@ import android.app.Application;
 import com.kakao.auth.KakaoSDK;
 
 public class GlobalApplication extends Application {
+    //호우
     //인스턴스 변수 선언
     //volatile : 멀티 스레드 프로그래밍에서 한 번에 수행하도록 해주는 예약어
     //멀티스레드 프로그래밍에서 long을 사용할 때 앞에 붙여서 사용한다.
